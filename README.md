@@ -1,0 +1,1 @@
+The project contains my solutions to tasks given in th course C++ for C-programmer at Coursera. It was some time since I had had used C++ and thought this would be a good opportunity to maintain my C++ co mpetence :)
